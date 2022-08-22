@@ -37,7 +37,7 @@ for f in list(reversed(intnum)) [::2] :
 
 #somar a lista toda
 sum(ladc)
-print(sum(ladc))
+
 
 #Mostrando Validade e qual a bandeira do cartão
 if sum(ladc) % 10 == 0 :
